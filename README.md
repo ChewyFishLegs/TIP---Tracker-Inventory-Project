@@ -45,8 +45,8 @@ A fully coded file-management system written in **C** that tracks item quantitie
 |------|--------|
 | Benedict John D. Dela Cruz | [@ChewyFishLegs](https://github.com/ChewyFishLegs) |
 | Kyle Dominic Olmedo | [@domdom101904](https://github.com/domdom101904) |
-| J.S. Bisuela | https://github.com/jsbisuela |
-| — | [@IO-w-OI](https://github.com/IO-w-OI) |
+| Jason John Bisuela | [@jsbisuela](https://github.com/jsbisuela) |
+| Isabel Basay Ollaban | [@IO-w-OI](https://github.com/IO-w-OI) |
 
 ---
 
